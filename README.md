@@ -7,7 +7,7 @@
   <a href="https://t.me/s_ponomareva">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="s-ponomareva@mail.ru">
+  <a href="maito:s-ponomareva@mail.ru">
     <img src="https://img.shields.io/badge/Mail-darkgreen?style=for-the-badge&logo=mail&logoColor=white" alt="Mail Badge"/>
   </a>
 </div>
