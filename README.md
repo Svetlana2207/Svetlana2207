@@ -2,8 +2,8 @@
 Contact me:
 
 <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-lightblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://instagram.com/ponomareva__svetlana?igshid=YmMyMTA2M2Y=">
+    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram Badge"/>
   </a>
   <a href="https://t.me/s_ponomareva">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
